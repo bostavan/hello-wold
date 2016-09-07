@@ -1,17 +1,15 @@
-# 1hello-wold
+# 1hello
 the hello-world repository can be a place where I store  ideas, resources, or even share and discuss things with others.
 No matter how far you may fly, never forget where you come from.
 
-# 2hello-wold
+# 2hello
 the hello-world repository can be a place where I store  ideas, resources, or even share and discuss things with others.
 No matter how far you may fly, never forget where you come from.
 
-# 3hello-wold
+# 3hello
 the hello-world repository can be a place where I store  ideas, resources, or even share and discuss things with others.
 No matter how far you may fly, never forget where you come from.
 
-# 4hello-wold
+# 4hello
 the hello-world repository can be a place where I store  ideas, resources, or even share and discuss things with others.
 No matter how far you may fly, never forget where you come from.
-
-#测试异常情况
